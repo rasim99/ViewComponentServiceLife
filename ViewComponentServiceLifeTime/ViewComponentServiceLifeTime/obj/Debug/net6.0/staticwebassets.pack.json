@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\about\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\about\\services.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\banner\\banner_left.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner_left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\blog-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\blog-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\comment-icon.png",
+      "PackagePath": "staticwebassets\\img\\blog\\comment-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\recent-01.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\recent-02.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\recent-03.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\blog\\recent-04.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\recent-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\brand\\br1.png",
+      "PackagePath": "staticwebassets\\img\\brand\\br1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\brand\\br2.png",
+      "PackagePath": "staticwebassets\\img\\brand\\br2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\brand\\br3.png",
+      "PackagePath": "staticwebassets\\img\\brand\\br3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\brand\\br4.png",
+      "PackagePath": "staticwebassets\\img\\brand\\br4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\brand\\br5.png",
+      "PackagePath": "staticwebassets\\img\\brand\\br5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\icon\\cancel.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\icon\\en.png",
+      "PackagePath": "staticwebassets\\img\\icon\\en.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\icon\\fr.png",
+      "PackagePath": "staticwebassets\\img\\icon\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\icon\\policy-1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\policy-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\icon\\policy-2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\policy-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\icon\\policy-3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\policy-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\paypal-card.jpg",
+      "PackagePath": "staticwebassets\\img\\paypal-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\pro-small-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pro-small-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\pro-small-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pro-small-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\pro-small-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pro-small-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\pro-small-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\pro-small-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-details-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-details-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-details-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-details-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-details-img3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-details-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\product\\product-details-img4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-details-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\testimonial\\tm-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial\\tm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\testimonial\\tm-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial\\tm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\img\\testimonial\\tm-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial\\tm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\js\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Desktop\\BACKEND\\ViewComponent-ServiceLifeTime\\ViewComponentServiceLifeTime\\ViewComponentServiceLifeTime\\wwwroot\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\js\\vendor.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ViewComponentServiceLifeTime.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ViewComponentServiceLifeTime.props",
+      "PackagePath": "build\\ViewComponentServiceLifeTime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ViewComponentServiceLifeTime.props",
+      "PackagePath": "buildMultiTargeting\\ViewComponentServiceLifeTime.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ViewComponentServiceLifeTime.props",
+      "PackagePath": "buildTransitive\\ViewComponentServiceLifeTime.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
