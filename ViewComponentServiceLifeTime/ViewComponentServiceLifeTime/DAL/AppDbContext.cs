@@ -15,6 +15,8 @@ namespace ViewComponentServiceLifeTime.DAL
         public DbSet<TopSeller> TopSellers { get; set; }
         public DbSet<TopSellerBanner> TopSellerBanners { get; set; }
         public DbSet<TopSellerCarousel> TopSellerCarousels { get; set; }
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<BrandCarousel> BrandCarousels { get; set; }
 
     }
 }

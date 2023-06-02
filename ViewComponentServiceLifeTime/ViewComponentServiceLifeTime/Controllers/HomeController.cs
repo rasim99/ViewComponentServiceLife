@@ -25,6 +25,8 @@ namespace ViewComponentServiceLifeTime.Controllers
             homeVM.TopSeller = _appDbContext.TopSellers.FirstOrDefault();
             homeVM.TopSellerBanner = _appDbContext.TopSellerBanners.FirstOrDefault();
             homeVM.TopSellerCarousels = _appDbContext.TopSellerCarousels.ToList();
+            homeVM.Blogs = _appDbContext.Blogs.ToList();
+            homeVM.BrandCarousels = _appDbContext.BrandCarousels.ToList();
 
             return View(homeVM);
         }

@@ -11,6 +11,8 @@ namespace ViewComponentServiceLifeTime.ViewModels
         public TopSeller TopSeller { get; set; }
         public TopSellerBanner TopSellerBanner { get; set; }
         public List<TopSellerCarousel> TopSellerCarousels { get; set; }
+        public List<Blog> Blogs { get; set; }
+        public List<BrandCarousel> BrandCarousels { get; set; }
 
 
     }
