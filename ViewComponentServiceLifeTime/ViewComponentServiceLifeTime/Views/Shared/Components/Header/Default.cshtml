@@ -58,7 +58,8 @@
                                 <nav class="desktop-menu">
                                     <ul>
                                         <li class="active">
-                                            <a href="index.html">Home <i class="fa fa-angle-down"></i></a>
+                                            <a asp-controller="home" asp-action="index" id="chechk1">Home <i class="fa fa-angle-down"></i></a>
+
                                             <ul class="dropdown">
                                                 <li><a href="index.html">Home version 01</a></li>
                                                 <li><a href="index-2.html">Home version 02</a></li>
@@ -115,7 +116,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="shop.html">shop <i class="fa fa-angle-down"></i></a>
+                                            <a asp-controller="shop" asp-action="index">shop <i class="fa fa-angle-down"></i></a>
                                             <ul class="dropdown">
                                                 <li>
                                                     <a href="#">shop grid layout <i class="fa fa-angle-right"></i></a>
@@ -234,3 +235,5 @@
     </div>
     <!-- mobile header end -->
 </header>
+
+<script src="~/js/JavaScript.js"> </script>

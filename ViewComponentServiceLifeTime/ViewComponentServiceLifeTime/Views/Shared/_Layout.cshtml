@@ -43,7 +43,12 @@
                 <!-- search box start -->
                 <div class="search-box-offcanvas">
                     <form>
-                        <input type="text" placeholder="Search Here...">
+                        <ul id="search-list">
+                            
+                            <li>
+                                <input type="text" placeholder="Search Here..." id="search-input">
+                            </li>
+                        </ul>
                         <button class="search-btn"><i class="ion-ios-search-strong"></i></button>
                     </form>
                 </div>
@@ -54,7 +59,7 @@
                     <nav>
                         <ul class="mobile-menu">
                             <li class="menu-item-has-children">
-                                <a href="index.html">Home</a>
+                                <a asp-controller="home" asp-action="index" >Home </a>
                                 <ul class="dropdown">
                                     <li><a href="index.html">Home version 01</a></li>
                                     <li><a href="index-2.html">Home version 02</a></li>
@@ -127,7 +132,7 @@
                                 </ul>
                             </li>
                             <li class="menu-item-has-children ">
-                                <a href="#">shop</a>
+                                <a asp-controller="shop" asp-action="index">shop</a>
                                 <ul class="dropdown">
                                     <li class="menu-item-has-children">
                                         <a href="#">shop grid layout</a>
@@ -169,7 +174,7 @@
                                     <li><a href="blog-details-left-sidebar.html">blog details left sidebar</a></li>
                                 </ul>
                             </li>
-                            <li><a href="contact-us.html">Contact us</a></li>
+                            <li><a href="">Contact us</a></li>
                         </ul>
                     </nav>
                     <!-- mobile menu navigation end -->
@@ -421,7 +426,8 @@
     <script src="~/js/active.js"></script>
 </body>
 
-
+<script src="~/js/JavaScript.js"> </script>
 <!-- Mirrored from demo.hasthemes.com/juan-preview-v1/juan/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 07 Mar 2021 22:36:53 GMT -->
 </html>
+<script src="~/js/JavaScript.js"></script>
 

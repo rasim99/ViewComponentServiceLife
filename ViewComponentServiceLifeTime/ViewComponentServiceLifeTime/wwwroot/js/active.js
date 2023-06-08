@@ -1,5 +1,22 @@
 (function ($) {
 	"use strict";
+	//search
+	$(document).on("keyup", "#search-input", function () {
+		$("#search-list li").Slice(1).remove()
+		var search = $("#search-input").val().trim();
+		if (search.length > 0) {
+
+			$.ajax({
+				method: "Get",
+				url: "Shop/Search?search=" + search,
+				success: function (res) {
+					$("#search-list").append(res)
+				}
+			})
+		}
+
+	})
+
 
 	// Sticky menu 
 	var $window = $(window);
